@@ -1,6 +1,7 @@
+using PatoRestaurant.Data;
+global using PatoRestaurant.Models; //O global torna o using para todo projeto
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using PatoRestaurant.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
