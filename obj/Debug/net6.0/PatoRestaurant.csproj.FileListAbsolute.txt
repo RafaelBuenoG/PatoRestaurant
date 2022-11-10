@@ -270,5 +270,3 @@ C:\Users\etec\Desktop\PatoRestaurant\obj\Debug\net6.0\refint\PatoRestaurant.dll
 C:\Users\etec\Desktop\PatoRestaurant\obj\Debug\net6.0\PatoRestaurant.pdb
 C:\Users\etec\Desktop\PatoRestaurant\obj\Debug\net6.0\PatoRestaurant.genruntimeconfig.cache
 C:\Users\etec\Desktop\PatoRestaurant\obj\Debug\net6.0\ref\PatoRestaurant.dll
-C:\Users\etec\Desktop\PatoRestaurant\bin\Debug\net6.0\Docs\Templates\material-dashboard-2\composer.json
-C:\Users\etec\Desktop\PatoRestaurant\bin\Debug\net6.0\Docs\Templates\material-dashboard-2\package.json
