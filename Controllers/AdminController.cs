@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace PatoRestaurant.Controllers
 {
 
-    [Authorize(Roles = "Administrador;Funcionario")] // Especifica que so pode acessar o controller quem tiver o cargo de admin e funcionario
+    [Authorize(Roles = "Administrador")] // Especifica que so pode acessar o controller quem tiver o cargo de admin e funcionario
     public class AdminController : Controller
     {
         private readonly ILogger<AdminController> _logger;

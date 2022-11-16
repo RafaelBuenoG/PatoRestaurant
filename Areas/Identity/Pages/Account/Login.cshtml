@@ -101,13 +101,14 @@
     let mensagemErro = '';
     $(".validation-sumary-errors ul li").each(function () {
       mensagemErro += $(this).text() + '<br>';
-    })
+    });
     if (mensagemErro != '') {
+      $("Input_Email").focus();
       Swal.fire({
         icon: 'error',
         title: 'Problemas ao Entrar',
         html: mensagemErro
-    })
+    });
     }
   </script>
 </body>
