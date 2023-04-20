@@ -22,7 +22,7 @@ namespace PatoRestaurant.Controllers
         // GET: Product
         public IActionResult Index()
         {
-            return View(await applicationDbContext.ToListAsync());
+            return View(_context);
         }
 
         // GET: Product/GetAll
